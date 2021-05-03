@@ -48,7 +48,7 @@
                                 @enderror
                             </div>
 
-                            <button type="submit" class="btn btn-primary">Add brand</button>
+                            <button type="submit" class="btn btn-primary">update brand</button>
                         </form>
                     </div>
 
